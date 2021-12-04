@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#header-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(11,249,17);
+    background: linear-gradient(98deg, rgba(11,249,17,1) 4%, rgba(37,245,122,1) 28%, rgba(83,244,224,1) 46%, rgba(65,189,240,1) 66%, rgba(45,53,253,1) 100%);
+    height: 70px; 
+}
+
+#city-search {
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+#form-style {
+    display: flex;
+    padding:2%;
+}
+
+.input-style {
+    border-radius: 3px;
+    width:30%;
+}
+
+.button-style {
+    border-radius: 3px;
+    padding: 1%;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+#forecast-style {
+    padding-left: 2%;
+   
+}
